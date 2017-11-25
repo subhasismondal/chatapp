@@ -1,0 +1,17 @@
+{
+  "name": "twilloapp",
+  "version": "1.0.0",
+  "description": "twilo app",
+  "dependencies":{
+    "express":"*",
+    "body-parser":"*",
+    "socket.io":"latest",
+    "jade":"latest"
+  },
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
